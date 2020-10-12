@@ -1,0 +1,67 @@
+[{
+        "name": "Rideau Cross",
+        "description": "In the early 1926, work began on the Rideau Canal, overseen by Lt. Colonel John By with the purpose of providing safe passage from Montreal to Kingston. It was estimated that 4,000 labourers would be required to build the engineering feat. While documents have been lost, one list exists that has the names of nearly 673 men, mostly Irish, who were working on the Canal. Standing approximately 3 feet tall, The Rideau Celtic Cross is located near Rideau Canal’s lock 1, this stone cross is engraved with traditional Irish patterns. It was unveiled in 2004 as a memorial to the workers who died building the canal between 1826 and 1832. ",
+        "address": "Ottawa, ON",
+        "image": "/img/rideau_cross.jpg",
+        "latlng": {
+            "lat": 45.4267947,
+            "lng": -75.6974162,
+            "zoom": 15
+        }
+    },
+    {
+        "name": "Manx Pub",
+        "description": "The Manx pub opened in 1993 on Elgin street, Ottawa. Decorated in an Irish style and boasting a long list of whiskeys, majority from Ireland. A newer, but important monument to celtic culture in Ottawa, this pub is a snapshot of a more traditional Ireland in downtown Ottawa. Another important feature is the corner plate on the outside of the building that brandishes an decorative Irish cross.",
+        "address": "Ottawa, ON",
+        "image": "/img/manx.jpeg",
+        "latlng": {
+            "lat": 45.4150231,
+            "lng": -75.6902924,
+            "zoom": 15
+        }
+    },
+    {
+        "name": "Irish Commemorative Stone",
+        "description": "During the irish famine thousands of families immigrated to Canada from Ireland, while many survived the journey not everyone shared the same luck. During an outbreak of typhus in 1847, an estimated up to 18,000 Irish immigrants died attempting to reach Canada. In the mid 19th century a mass grave was unearthed containing the bodies of approximately 6,000 immigrants. In 1865, the Irish Commemorative Stone was created to honor the lives of those who did not survive the journey to Canada. Every year a walk is held from St Gabriel's church to the stone to commemorate those lost.",
+        "address": "Montreal, QC",
+        "image": "/img/montreal_stone.jpg",
+        "latlng": {
+            "lat": 45.4868004,
+            "lng": -73.548544,
+            "zoom": 14
+        }
+    },
+    {
+        "name": "Grosse Isle",
+        "description": "During the Irish famine of 1845, Irish immigrants fled to Canada in an attempt to seek out a better life. However, in 1847 there was an outbreak of Typhus, mainly on ships coming from Irealnd, to combat this Grosse island was set up as a quarantine and border check. Upon arrival to Canada, immigrant ships were sent to Grosse island until it was determined that the ship was free of disease. An estimated 500,000 Irish immigrants travelled through the island during its operation and over 5,000 are buried there. Today, you can take a tour of the decontamination sites and an Irish Cross has been erected on the island itself to commemorate those who did not make it off the island.",
+        "address": "Quebec, QC",
+        "image": "/img/grosse.jpg",
+        "latlng": {
+            "lat": 47.029224,
+            "lng": -70.669895,
+            "zoom": 13
+        }
+    },
+    {
+        "name": "Chaffey's Lock Cemetery",
+        "description": "Of the many Irish workers who died during the construction of the Rideau Canal, many were buried at a now abandoned cemetery in Elgin, Ontario. The Chaffey's Lock Cemetery contains roughly 30 fieldstones that once had names but are now unreadable due to weather and the age of the stones. This cemetery specifically pertains to those who lost their lives in the settlement of Chaffey's Mills. The area was named after Samuel Chaffey, a businessman who moved from England to Upper Canada in 1816. Chaffey is most notable for his last mill which was dismantled to make way for a new lock on the Rideau Canal.",
+        "address": "Chaffey, ON",
+        "image": "/img/chasse.jpg",
+        "latlng": {
+            "lat": 44.5809545,
+            "lng": -76.318021,
+            "zoom": 14
+        }
+    },
+    {
+        "name": "The Future Irish Canada Monument",
+        "description": "In 2019, approval was given by the Vancouver Parks Board for a new memorial to be constructed in George Wainborn Park, Vancouver. This monument will consist of the planting of trees and an yet undisclosed centerpiece. The monument will be in recognition of the over 400 years of Irish contribution to the history of Canada and to the nearly 14% of Canadians that have irish ancestry.",
+        "address": "Vancouver, BC",
+        "image": "/img/future.webp",
+        "latlng": {
+            "lat": 49.2723559,
+            "lng": -123.1288013,
+            "zoom": 14
+        }
+    }
+]
