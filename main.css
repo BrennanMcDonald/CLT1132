@@ -40,8 +40,23 @@ body {
     float: left;
 }
 
+#plain-listings {
+    padding: 10px 20%;
+    line-height: 28px;
+    font-size: 18px;
+}
+
 #listings {
     overflow-y: scroll;
+}
+
+#sources {
+    display: flex;
+    justify-content: center;
+}
+
+#sources * {
+    font-family: sans-serif!important;
 }
 
 #listings .internal {
